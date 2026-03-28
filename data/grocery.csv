@@ -1,0 +1,6 @@
+item,season,quantity,demand,price
+tomato,summer,10,high,40
+potato,winter,20,medium,30
+onion,summer,15,high,50
+apple,winter,5,low,120
+banana,all,12,medium,60
