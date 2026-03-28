@@ -1,24 +1,24 @@
-# 🛒 Grocery Price Prediction
+#  Grocery Price Prediction
 
-## 📌 Introduction
+## Introduction
 
 This project is a Machine Learning-based system that predicts the price of grocery items such as fruits and vegetables based on different factors like season, demand, and quantity.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 Grocery prices change frequently due to seasonal variations, demand, and supply. It becomes difficult for consumers and shopkeepers to determine the correct price.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to build a model that can predict grocery prices accurately using machine learning techniques.
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -27,7 +27,7 @@ The main objective of this project is to build a model that can predict grocery 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset used in this project is a small custom dataset containing:
 
@@ -39,7 +39,7 @@ The dataset used in this project is a small custom dataset containing:
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. Load the dataset using Pandas
 2. Convert categorical data into numerical format using Label Encoding
@@ -48,7 +48,7 @@ The dataset used in this project is a small custom dataset containing:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install dependencies
 
@@ -60,7 +60,7 @@ python train.py
 
 ---
 
-## 📈 Features
+##  Features
 
 * Predict grocery prices
 * Simple and easy-to-use model
@@ -68,7 +68,7 @@ python train.py
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 * Handling categorical data
 * Small dataset size
@@ -76,13 +76,13 @@ python train.py
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project successfully demonstrates how machine learning can be used to predict grocery prices. It can be further improved by using a larger dataset and advanced algorithms.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add more data for better accuracy
 * Build a user interface (UI)
@@ -90,6 +90,6 @@ This project successfully demonstrates how machine learning can be used to predi
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Suraj Yadav
